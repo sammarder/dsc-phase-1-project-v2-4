@@ -1,6 +1,6 @@
 # Title
 
-**Authors**: Samuel Marder
+**Author**: Samuel Marder
 
 ## Overview
 
@@ -17,19 +17,11 @@ Questions to consider:
 * Why are these questions important from a business perspective?
 ***
 
-The primary objective of this project is to help Microsoft figure out how best to invest in a new movie.
+The primary objective of this project is to help Microsoft figure out how best to invest in a new movie. To help with this objective I broke down the data by asking what would result i nthe highest return of investment and used that to make my recommendations.
 
 ## Data
 
-Describe the data being used for this project.
-
-***
-Questions to consider:
-* Where did the data come from, and how do they relate to the data analysis questions?
-* What do the data represent? Who is in the sample and what variables are included?
-* What is the target variable?
-* What are the properties of the variables you intend to use?
-***
+The data used is from a well known movie database called IMDB which has information regarding various aspects of movies from who directed the movie to who wrote it. The sample contains movies from the recent past
 
 ## Methods
 
