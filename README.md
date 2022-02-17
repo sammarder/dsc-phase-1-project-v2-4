@@ -1,6 +1,6 @@
 # Title
 
-**Authors**: Student1, Student2
+**Authors**: Samuel Marder
 
 ## Overview
 
@@ -54,7 +54,7 @@ Questions to consider:
 Here is an example of how to embed images from your sub-folder:
 
 ### Visual 1
-![graph1](./images/viz1.png)
+![graph1](./images/Director_ROI.png)
 
 ## Conclusions
 
