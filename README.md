@@ -20,14 +20,6 @@ I took the data from IMDB and coorelated it with the information on movie budget
 
 ## Results
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
-
-***
-Questions to consider:
-* How do you interpret the results?
-* How confident are you that your results would generalize beyond the data you have?
-***
-
 I would interpret these results by saying that there is a good cause to do an animated film with a feature length of 2 to 2.5 hours long given how much data is available for those aspects along with hiring Atsushi Wada to direct the film.
 
 Here is an example of how to embed images from your sub-folder:
