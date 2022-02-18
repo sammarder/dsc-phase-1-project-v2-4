@@ -1,4 +1,4 @@
-# Title
+# Microsoft Film Analysis
 
 **Author**: Samuel Marder
 
@@ -26,6 +26,8 @@ The data used is from a well known movie database called IMDB which has informat
 ## Methods
 
 Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
+
+I took the data from IMDB and coorelated it with the information on movie budgets to get the return on investment because I felt that it would be the best approach
 
 ***
 Questions to consider:
