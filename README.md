@@ -4,18 +4,9 @@
 
 ## Overview
 
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+This project aims to analyze film data to give Microsoft an edge when they decide to make a movie for the first time. Descriptive analysis of the movie data shows how Microsoft can best use the recent past of movies to get the best return on investment when it comes to making a movie. 
 
 ## Business Problem
-
-Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
-
-***
-Questions to consider:
-* What are the business's pain points related to this project?
-* How did you pick the data analysis question(s) that you did?
-* Why are these questions important from a business perspective?
-***
 
 The primary objective of this project is to help Microsoft figure out how best to invest in a new movie. To help with this objective I broke down the data by asking what would result i nthe highest return of investment and used that to make my recommendations.
 
@@ -25,15 +16,7 @@ The data used is from a well known movie database called IMDB which has informat
 
 ## Methods
 
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
-
 I took the data from IMDB and coorelated it with the information on movie budgets to get the return on investment because I felt that it would be the best approach
-
-***
-Questions to consider:
-* How did you prepare, analyze or model the data?
-* Why is this approach appropriate given the data and the business problem?
-***
 
 ## Results
 
@@ -44,6 +27,8 @@ Questions to consider:
 * How do you interpret the results?
 * How confident are you that your results would generalize beyond the data you have?
 ***
+
+I would interpret these results by saying that there is a good cause to do an animated film with a feature length of 2 to 2.5 hours long given how much data is available for those aspects along with hiring Atsushi Wada to direct the film.
 
 Here is an example of how to embed images from your sub-folder:
 
