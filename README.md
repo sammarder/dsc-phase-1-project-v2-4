@@ -20,27 +20,23 @@ I took the data from IMDB and coorelated it with the information on movie budget
 
 ## Results
 
-I would interpret these results by saying that there is a good cause to do an animated film with a feature length of 2 to 2.5 hours long given how much data is available for those aspects along with hiring Atsushi Wada to direct the film.
-
-Here is an example of how to embed images from your sub-folder:
 
 ### Visual 1
 ![graph1](./images/Director_ROI.png)
 
+### Visual 2
+![graph1](./images/Genre_ROI.png)
+
+### Visual 3
+![graph1](./images/Runtime_ROI.png)
+
 ## Conclusions
 
-Provide your conclusions about the work you've done, including any limitations or next steps.
-
-***
-Questions to consider:
-* What would you recommend the business do as a result of this work?
-* What are some reasons why your analysis might not fully solve the business problem?
-* What else could you do in the future to improve this project?
-***
+I would interpret these results by saying that there is a good cause to do an animated film with a feature length of 2 to 2.5 hours long given how much data is available for those aspects along with hiring Atsushi Wada to direct the film.
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in the [Jupyter Notebook](./student.ipynb) or the [presentation](./presentation.pdf).
 
 For any additional questions, please contact **name & email, name & email**
 
@@ -49,9 +45,8 @@ For any additional questions, please contact **name & email, name & email**
 Describe the structure of your repository and its contents, for example:
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+├── README.md                <- The top-level README for reviewers of this project
+├── student.ipynb            <- Narrative documentation of analysis in Jupyter notebook
+├── presentation.pdf         <- PDF version of project presentation
+└── images                   <- Both sourced externally and generated from code
 ```
