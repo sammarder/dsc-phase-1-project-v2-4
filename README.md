@@ -21,24 +21,22 @@ I took the data from IMDB and coorelated it with the information on movie budget
 ## Results
 
 
-### Visual 1
+### Director_ROI
 ![graph1](./images/Director_ROI.png)
 
-### Visual 2
+### Genre_ROI
 ![graph1](./images/Genre_ROI.png)
 
-### Visual 3
+### Runtime_ROI
 ![graph1](./images/Runtime_ROI.png)
 
 ## Conclusions
 
-I would interpret these results by saying that there is a good cause to do an animated film with a feature length of 2 to 2.5 hours long given how much data is available for those aspects along with hiring Atsushi Wada to direct the film.
+Based on these results, I would hire Andy Muschetti to direct a musical film running for about 120 to 150 minutes in length.
 
 ## For More Information
 
 Please review our full analysis in the [Jupyter Notebook](./student.ipynb) or the [presentation](./presentation.pdf).
-
-For any additional questions, please contact **name & email, name & email**
 
 ## Repository Structure
 
